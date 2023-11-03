@@ -7,7 +7,7 @@
 ### Je suis étudiant en France et je suis passionné par la cyber-sécurité et les systèmes Linux.
 
 - 🔭 J'ai créé [GhostRecon OSINT](https://github.com/KawaCoder/GhostRecon) (⭐200+).
-- 🌱 Je travaille actuellement sur OSALT, un outil d'automation pour les systèmes UNIX (Debian pour l'instant).
+- 🌱 Je travaille actuellement sur OSALT, un outil d'automation pour les systèmes UNIX/Linux (Debian pour l'instant).
 
 ### Mes langages de prédilection sont:
 - ☕ Java
