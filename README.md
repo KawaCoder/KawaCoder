@@ -2,7 +2,7 @@
 
 # Bienvenue sur mon profil GitHub 👋
 <a href="https://hits.sh/github.com/KawaCoder">
-      <img src="https://hits.sh/github.com/KawaCoder.svg?style=flat&label=Views this week"/>
+      <img src="https://hits.sh/github.com/KawaCoder.svg?style=flat&label=Views%20this%20week"/>
 </a>
 
 ## À propos de moi
