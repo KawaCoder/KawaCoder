@@ -1,6 +1,9 @@
 ![standard](https://github.com/KawaCoder/KawaCoder/assets/67145585/9d76dc84-b22f-4d24-8c2a-12049b19963c)
 
 # Bienvenue sur mon profil GitHub 👋
+<a href="https://hits.sh/github.com/KawaCoder">
+      <img src="https://hits.sh/github.com/KawaCoder.svg?style=flat&label=Views"/>
+</a>
 
 ## À propos de moi
 
