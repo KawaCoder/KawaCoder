@@ -19,13 +19,21 @@
 
 ## Projets importants ✨
 
-### [GhostRecon OSINT](https://github.com/KawaCoder/GhostRecon)
+#### [GhostRecon OSINT](https://github.com/KawaCoder/GhostRecon)
 
 GhostRecon OSINT est un projet que j'ai créé pour la recherche de données open-source (OSINT). Il a déjà reçu plus de 200 stargazers! Allez voir ce projet  [ici](https://github.com/KawaCoder/GhostRecon).
 
-### [OSALT](https://github.com/KawaCoder/OSALT) 🤖 (en cours de développement)
+#### [OSALT](https://github.com/KawaCoder/OSALT) 🤖 (en cours de développement)
 
-Actuellement, je suis en train de développer OSALT, un outil d'automation pour les systèmes UNIX; en me concentrant sur Debian pour le moment. Restez à l'affût pour des mises à jour prochaines !
+Actuellement, je suis en train de développer [OSALT](https://github.com/KawaCoder/OSALT), un outil d'automation pour les systèmes Linux; en me concentrant sur Debian pour le moment. Restez à l'affût pour des mises à jour prochaines !
+
+## Projets étudiants 🎓
+Voici des projets réalisés dans un cadre étudiant
+- [Really Intelligent Python Phone book](https://github.com/KawaCoder/RIPP)
+- [LAN BlackJack](https://github.com/KawaCoder/LAN_BlackJack)
+- [ATM Simulator](https://github.com/KawaCoder/ATM_Simulator)
+- [Analyseur de code Python](https://github.com/KawaCoder/Analyseur-de-code-python)
+- [Py-Pendu](https://github.com/KawaCoder/PY_pendu)
 
 ## Contactez-moi
 
