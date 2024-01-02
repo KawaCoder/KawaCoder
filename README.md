@@ -10,7 +10,7 @@
 ### Je suis étudiant en France et je suis passionné par la cyber-sécurité et les systèmes Linux.
 
 - 🔭 J'ai créé [GhostRecon OSINT](https://github.com/KawaCoder/GhostRecon) (⭐200+).
-- 🌱 Je travaille actuellement sur OSALT, un outil d'automation pour les systèmes UNIX/Linux (Debian pour l'instant).
+- 🌱 Mon dernier projet est [BattlXploit](https://github.com/KawaCoder/BattleXploit), un jeu en réseau programmé en Java.
 
 ### Mes langages de prédilection sont:
 - ☕ Java
@@ -23,12 +23,13 @@
 
 GhostRecon OSINT est un projet que j'ai créé pour la recherche de données open-source (OSINT). Il a déjà reçu plus de 200 stargazers! Allez voir ce projet  [ici](https://github.com/KawaCoder/GhostRecon).
 
-#### [OSALT](https://github.com/KawaCoder/OSALT) 🤖 (en cours de développement)
+#### [BattlXploit](https://github.com/KawaCoder/BattleXploit) 👨‍💻
 
-Actuellement, je suis en train de développer [OSALT](https://github.com/KawaCoder/OSALT), un outil d'automation pour les systèmes Linux; en me concentrant sur Debian pour le moment. Restez à l'affût pour des mises à jour prochaines !
+Mon dernier projet est BattlXploit, il s'agit d'un jeu multijoueur (en réseau) en ligne de commande centré autour de la sécurité informatique.
 
 ## Projets étudiants 🎓
 Voici des projets réalisés dans un cadre étudiant
+- [BattlXploit](https://github.com/KawaCoder/BattleXploit)
 - [Really Intelligent Python Phone book](https://github.com/KawaCoder/RIPP)
 - [LAN BlackJack](https://github.com/KawaCoder/LAN_BlackJack)
 - [ATM Simulator](https://github.com/KawaCoder/ATM_Simulator)
