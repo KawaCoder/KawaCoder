@@ -27,8 +27,8 @@ GhostRecon OSINT est un projet que j'ai créé pour la recherche de données ope
 
 Mon dernier projet est BattlXploit, il s'agit d'un jeu multijoueur (en réseau) en ligne de commande centré autour de la sécurité informatique.
 
-## Projets étudiants 🎓
-Voici des projets réalisés dans un cadre étudiant
+## Projets personels 🎓
+Voici des projets réalisés dans un cadre personel
 - [BattlXploit](https://github.com/KawaCoder/BattleXploit)
 - [Really Intelligent Python Phone book](https://github.com/KawaCoder/RIPP)
 - [LAN BlackJack](https://github.com/KawaCoder/LAN_BlackJack)
