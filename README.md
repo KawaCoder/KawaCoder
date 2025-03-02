@@ -10,7 +10,7 @@
 ### Je suis étudiant en France et je suis passionné par la cyber-sécurité et les systèmes Linux.
 
 - 🔭 J'ai créé [GhostRecon OSINT](https://github.com/KawaCoder/GhostRecon) (⭐200+).
-- 🌱 Mon dernier projet est [BattlXploit](https://github.com/KawaCoder/BattleXploit), un jeu en réseau programmé en Java.
+- 🌱 Mon dernier projet est [Plane Spotter](https://github.com/KawaCoder/plane-spotter), un script qui détermine si des avions sont visibles depuis un point donné.
 
 ### Mes langages de prédilection sont:
 - ☕ Java
@@ -22,10 +22,6 @@
 #### [GhostRecon OSINT](https://github.com/KawaCoder/GhostRecon)
 
 GhostRecon OSINT est un projet que j'ai créé pour la recherche de données open-source (OSINT). Il a déjà reçu plus de 200 stargazers! Allez voir ce projet  [ici](https://github.com/KawaCoder/GhostRecon).
-
-#### [BattlXploit](https://github.com/KawaCoder/BattleXploit) 👨‍💻
-
-Mon dernier projet est BattlXploit, il s'agit d'un jeu multijoueur (en réseau) en ligne de commande centré autour de la sécurité informatique.
 
 ## Projets personels 🎓
 Voici des projets réalisés dans un cadre personel
