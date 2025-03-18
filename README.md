@@ -25,6 +25,7 @@ GhostRecon OSINT est un projet que j'ai créé pour la recherche de données ope
 
 ## Projets personels 🎓
 Voici des projets réalisés dans un cadre personel
+- [Algorithme de chiffrement de messages en Bash](https://github.com/KawaCoder/algo_chiffrement)
 - [BattlXploit](https://github.com/KawaCoder/BattleXploit)
 - [Really Intelligent Python Phone book](https://github.com/KawaCoder/RIPP)
 - [LAN BlackJack](https://github.com/KawaCoder/LAN_BlackJack)
