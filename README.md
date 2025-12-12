@@ -7,7 +7,7 @@
 
 ## À propos de moi
 
-### Je suis étudiant en France et je suis passionné par la cyber-sécurité et les systèmes Linux.
+### Je suis étudiant en France et je suis passionné par la cyber-sécurité et les systèmes GNU/Linux.
 
 - 🔭 J'ai créé [GhostRecon OSINT](https://github.com/KawaCoder/GhostRecon) (⭐200+).
 - 🌱 Mon dernier projet est [Plane Spotter](https://github.com/KawaCoder/plane-spotter), un script qui détermine si des avions sont visibles depuis un point donné.
@@ -38,5 +38,3 @@ Voici des projets réalisés dans un cadre personel
 Si vous souhaitez discuter, collaborer ou simplement en savoir plus sur mes projets, n'hésitez pas à me contacter :
 
 - 📧 Email : [kawacoder@duck.com](mailto:kawacoder@duck.com)
-
-N'hésitez pas non plus à explorer mes repos, même si c'est un peu chaotique!
