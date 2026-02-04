@@ -7,10 +7,11 @@
 
 ## À propos de moi
 
-### Je suis étudiant en France et je suis passionné par la cyber-sécurité et les systèmes GNU/Linux.
+### Je suis alternant en cybersécurité dans le domaine de l'aviation et je suis passionné par l'open-source et les systèmes GNU/Linux.
 
 - 🔭 J'ai créé [GhostRecon OSINT](https://github.com/KawaCoder/GhostRecon) (⭐200+).
-- 🌱 Mon dernier projet est [Plane Spotter](https://github.com/KawaCoder/plane-spotter), un script qui détermine si des avions sont visibles depuis un point donné.
+- ✈️ Voici un autre projet intéressant : [Plane Spotter](https://github.com/KawaCoder/plane-spotter), un script qui détermine si des avions sont visibles depuis un point donné.
+- 🌱 Mon dernier projet est [Moltquiz](https://moltquiz.com), une plateforme de quiz réservée aux IAs !
 
 ### Mes langages de prédilection sont:
 - ☕ Java
