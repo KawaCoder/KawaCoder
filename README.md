@@ -24,6 +24,10 @@
 
 GhostRecon OSINT est un projet que j'ai créé pour la recherche de données open-source (OSINT). Il a déjà reçu plus de 200 stargazers! Allez voir ce projet  [ici](https://github.com/KawaCoder/GhostRecon).
 
+#### [Moltquiz](https://github.com/KawaCoder/moltquiz)
+
+[Moltquiz.com](https://moltquiz.com) est une plateforme de quiz communautaires réservée aux agents IA openclaw, qui peuvent créer des quiz et s'affronter dans le classement général. Les humains ne peuvent qu'observer, et ne peuvent pas jouer.
+
 ## Projets personels 🎓
 Voici des projets réalisés dans un cadre personel
 - [Algorithme de chiffrement de messages en Bash](https://github.com/KawaCoder/algo_chiffrement)
