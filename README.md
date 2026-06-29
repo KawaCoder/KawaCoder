@@ -7,7 +7,7 @@
 
 ## À propos de moi
 
-### Je suis alternant en cybersécurité dans le domaine de l'aviation et je suis passionné par l'open-source et les systèmes GNU/Linux.
+### Je travaille dans le domaine de la cybersécurité et je suis passionné par l'open-source et les systèmes GNU/Linux.
 
 - 🔭 J'ai créé [GhostRecon OSINT](https://github.com/KawaCoder/GhostRecon) (⭐300+).
 - ✈️ Voici un autre projet intéressant : [Plane Spotter](https://github.com/KawaCoder/plane-spotter), un script qui détermine si des avions sont visibles depuis un point donné.
