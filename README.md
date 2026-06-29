@@ -21,7 +21,7 @@
 
 #### [GhostRecon OSINT](https://github.com/KawaCoder/GhostRecon)
 
-GhostRecon OSINT est un projet que j'ai créé pour la recherche de données open-source (OSINT). Il a déjà reçu plus de 200 stargazers! Allez voir ce projet  [ici](https://github.com/KawaCoder/GhostRecon).
+GhostRecon OSINT est un projet que j'ai créé pour la recherche de données open-source (OSINT). Il a déjà reçu plus de 300 stargazers! Allez voir ce projet  [ici](https://github.com/KawaCoder/GhostRecon).
 
 ## Projets personels 👨‍💻
 Voici des projets réalisés dans un cadre personel
