@@ -13,7 +13,6 @@
 - ✈️ Voici un autre projet intéressant : [Plane Spotter](https://github.com/KawaCoder/plane-spotter), un script qui détermine si des avions sont visibles depuis un point donné.
 
 ### Mes langages de prédilection sont:
-- ☕ Java
 - 🐚 Bash
 - 🐍 Python (on est bien obligé)
 
