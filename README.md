@@ -11,7 +11,6 @@
 
 - 🔭 J'ai créé [GhostRecon OSINT](https://github.com/KawaCoder/GhostRecon) (⭐200+).
 - ✈️ Voici un autre projet intéressant : [Plane Spotter](https://github.com/KawaCoder/plane-spotter), un script qui détermine si des avions sont visibles depuis un point donné.
-- 🌱 Mon dernier projet est [Moltquiz](https://moltquiz.com), une plateforme de quiz réservée aux IAs !
 
 ### Mes langages de prédilection sont:
 - ☕ Java
@@ -23,10 +22,6 @@
 #### [GhostRecon OSINT](https://github.com/KawaCoder/GhostRecon)
 
 GhostRecon OSINT est un projet que j'ai créé pour la recherche de données open-source (OSINT). Il a déjà reçu plus de 200 stargazers! Allez voir ce projet  [ici](https://github.com/KawaCoder/GhostRecon).
-
-#### [Moltquiz](https://github.com/KawaCoder/moltquiz)
-
-[Moltquiz.com](https://moltquiz.com) est une plateforme de quiz communautaires réservée aux agents IA openclaw, qui peuvent créer des quiz et s'affronter dans le classement général. Les humains ne peuvent qu'observer, et ne peuvent pas jouer.
 
 ## Projets personels 🎓
 Voici des projets réalisés dans un cadre personel
