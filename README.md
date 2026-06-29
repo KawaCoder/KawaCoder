@@ -14,7 +14,7 @@
 
 ### Mes langages de prédilection sont:
 - 🐚 Bash
-- 🐍 Python (on est bien obligé)
+- 🐍 Python
 
 ## Projets importants ✨
 
